@@ -3,14 +3,16 @@ I'm Olalekan Ifedayo Awe, a Software Engineer focused on developing backend syst
 
 I contribute to community events and build exciting personal apps.
 
-🌱 I’m currently learning Python
+🌱 I’m a Python developer.
+
+🐥 I'm currently learning goolang.
 
 👯 I’m looking to collaborate on Python django and flask projects.
 
 💬 Ask me about: Python, Django, Flask and tech communies to get your tech career started.
 
-🤔 I’m looking for help with open source projects and internship
-
 ⚡ Fun fact: I code to relax.
 
-💼 Job interests: Software Engineer or Backend Engineer
+💼 Job interests: Software Backend Engineer.
+
+🔥 Stack: Django, Django-RestFramework, Flask, RestAPI, PostgreSQL, MySQL, Linode, Heroku, Git, Aws, Docker, Jira.
