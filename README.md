@@ -5,7 +5,7 @@ I contribute to community events and build exciting personal apps.
 
 🌱 I’m a Python developer.
 
-🐥 I'm currently learning goolang.
+🐥 I'm currently learning golang.
 
 👯 I’m looking to collaborate on Python django and flask projects.
 
