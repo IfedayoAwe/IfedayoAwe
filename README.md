@@ -1,7 +1,7 @@
 # Hello 👋🏾
 I'm Olalekan Ifedayo Awe, a Software Engineer focused on developing backend systems for web and mobile applications. I'm an enthusiast for technolgy, gadgets, world histories, sharing technical knowledge from my personal learning path and I always love a good challenge.
 
-I contribute to community events and build exciting personal apps.
+I contribute to community events and build exciting personal applications.
 
 🌱 I’m a Python developer.
 
