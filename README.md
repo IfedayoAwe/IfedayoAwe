@@ -3,10 +3,6 @@ I'm Olalekan Ifedayo Awe, a Software Engineer focused on developing backend syst
 
 I contribute to community events and build exciting personal applications.
 
-🌱 I’m a Python developer.
-
-🐥 I'm a Go developer.
-
 👯 I’m looking to collaborate on Go, Python django and flask projects.
 
 💬 Ask me about: Go, Python, Django, Flask and tech communies to get your tech career started.
