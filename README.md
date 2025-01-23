@@ -3,10 +3,10 @@ I'm Olalekan Ifedayo Awe, a Software Engineer focused on developing backend syst
 
 I contribute to community events and build exciting personal applications.
 
-👯 I’m looking to collaborate on Go, Python django and flask projects.
+👯 I’m looking to collaborate on Go, Python, PHP projects.
 
 💬 Ask me about: Go, Python, Django, Flask and tech communies to get your tech career started.
 
 💼 Job interests: Software Backend Engineer.
 
-🔥 Stack: Go, Python, Django, Django-RestFramework, Flask, RestAPI, GraphQL, PostgreSQL, MySQL, Linode, Heroku, Git, Aws, Docker, Jira, Postman.
+🔥 Stack: Go, PHP, Python, Django, Django-RestFramework, Flask, RestAPI, GraphQL, PostgreSQL, MySQL, Linode, Heroku, Git, Aws, Docker, Jira, Postman.
