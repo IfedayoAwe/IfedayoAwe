@@ -9,4 +9,4 @@ I contribute to community events and build exciting personal applications.
 
 💼 Job interests: Software Backend Engineer.
 
-🔥 Stack: Go, PHP, Python, Django, Django-RestFramework, Flask, RestAPI, GraphQL, PostgreSQL, MySQL, Linode, Heroku, Git, Aws, Docker, Jira, Postman.
+🔥 Stack: Go, TypeScript, PHP, Python.
